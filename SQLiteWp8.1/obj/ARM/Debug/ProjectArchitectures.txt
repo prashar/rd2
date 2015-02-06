@@ -1,0 +1,1 @@
+C:\projects\receiptdigitizer2\receiptdigitizer\SQLiteWp8.1\ReceipTax.csproj;arm
